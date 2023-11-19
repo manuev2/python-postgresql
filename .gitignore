@@ -1,0 +1,12 @@
+*/database_configs/*
+__pycache__/
+*.pyc
+env/
+venv/
+bin/
+.vscode/
+.DS_Store
+*.log
+dist/
+build/
+*.egg-info/
